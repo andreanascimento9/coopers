@@ -1,0 +1,30 @@
+.coopers-banner-title{
+    line-height: 10px;
+}
+
+.banner-bg{
+   position: absolute;
+   right: -2%;
+   width: 40vw;
+   z-index: 2;
+   top: 50%;
+   transform: translate(0, -50%);
+   
+}
+
+.banner-bg-foto{
+    top: 80px;
+    position: relative;
+    z-index: 3;
+}
+
+
+.btn-green{
+    background: #4AC959;
+    border-radius: 10px;
+    padding: 18px 55px;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

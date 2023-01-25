@@ -1,0 +1,14 @@
+.coopers-nav-left{
+    gap: 12px;
+}
+
+.btn-black{
+    background: black;
+    color: white;
+    font-weight: bold;
+    font-weight: 600;
+    padding: 15px 35px;
+    font-size: .8em;
+    text-decoration: none;
+    cursor: pointer;
+}
